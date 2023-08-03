@@ -131,7 +131,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
+src.gc.wasm
+pkg/
+target/
 ### Node Patch ###
 # Serverless Webpack directories
 .webpack/
